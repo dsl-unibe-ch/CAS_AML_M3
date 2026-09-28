@@ -1,2 +1,5 @@
-# CAS_AML_M6
-Advanced Models module for the CAS AML given at UniBe
+# CAS_AML_M3
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dsl-unibe-ch/CAS_AML_M3)
+
+Tutorials on the NLP for CAS AML given at UniBe
